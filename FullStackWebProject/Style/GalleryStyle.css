@@ -1,0 +1,8 @@
+.gallery-block.cards-gallery .card img {
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15); 
+}
+@media (min-width: 576px) {
+	.gallery-block .transform-on-hover:hover {
+	    box-shadow: 0px 0 10px rgba(0, 0, 0, 0.2) !important;
+	}
+}
